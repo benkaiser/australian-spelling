@@ -1,0 +1,1 @@
+This is source-available software and is not intended for use by third-parties.
