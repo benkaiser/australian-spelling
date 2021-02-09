@@ -12,9 +12,9 @@ module.exports = {
     /* ... */
   },
   devOptions: {
-    open: 'none'
+    open: 'none',
   },
   buildOptions: {
-    /* ... */
+    out: 'docs'
   },
 };
