@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+.containerContent {
+    padding-top: 16px;
+}
+.blockButton {
+    width: 100%;
+}
