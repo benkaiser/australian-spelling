@@ -40,7 +40,7 @@ export default class App extends React.Component {
       color: "secondary",
       variant: "extended",
       style: {width: "100%"}
-    }, /* @__PURE__ */ React.createElement(AddIcon, null), "Create List")), /* @__PURE__ */ React.createElement("div", null, "Testing github action run")));
+    }, /* @__PURE__ */ React.createElement(AddIcon, null), "Create List"))));
   }
 }
 ReactDOM.render(/* @__PURE__ */ React.createElement(App, null), document.getElementById("app"));
