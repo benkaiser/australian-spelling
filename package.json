@@ -2,7 +2,7 @@
   "name": "australian-spelling",
   "version": "1.0.0",
   "description": "This is source-available software and is not intended for use by third-parties.",
-  "main": "src/index.tsx",
+  "main": "src/app.tsx",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build"
@@ -26,8 +26,11 @@
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
     "@snowpack/plugin-typescript": "^1.2.1",
+    "@types/react-router-dom": "^5.1.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "typescript": "^4.1.3"
   }
 }
